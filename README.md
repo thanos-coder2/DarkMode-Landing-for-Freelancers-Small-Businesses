@@ -8,7 +8,7 @@ The project is designed to be lightweight, fast, and easy to extend, with a well
 
 The layout focuses on clear content presentation and strong visual identity, making it ideal for freelancers, creative professionals, and small businesses that want to showcase their services and work in a professional way.
 
-🚀 Live Demo
+🚀 Live Demo 
 
 🔗 https://darkmode-minimal-template.netlify.app/
 
