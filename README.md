@@ -1,5 +1,5 @@
 🌙 DarkMode Minimal Landing Page
-<div align="center">
+<div align="left">
 
 Modern • Responsive • Minimal • Professional
 A clean and elegant landing page built with a minimalist philosophy and a strong focus on usability.
