@@ -1,122 +1,87 @@
-🌙 DarkMode Minimal Landing Page
-<div align="left">
+# 🌙 DarkMode Minimal Landing Page
 
-Modern • Responsive • Minimal • Professional
-A clean and elegant landing page built with a minimalist philosophy and a strong focus on usability.
-Designed with a modern dark aesthetic and an optional light mode toggle for a smooth experience across all devices.
-<br>
-🚀 Live Demo
+A **modern and elegant responsive landing page** built with a minimalist philosophy and a strong focus on usability.  
+Designed with a clean **dark mode aesthetic** and an optional light mode toggle for a smooth user experience across all devices.
+
+The project is lightweight, fast, and easy to customize, making it ideal for real-world professional websites and portfolio presentations.
+
+---
+
+# 🚀 Live Demo
+
 🔗 https://darkmode-minimal-template.netlify.app/
-</div>
 
-✨ Overview
-This project is designed to be:
+---
 
+# ✨ Key Features
 
-⚡ Lightweight and fast
+- ⚡ Modern dark mode design  
+- ☀️ Optional light mode toggle  
+- 📱 Fully responsive layout  
+- 🧩 Clean and maintainable structure  
+- 🚀 Lightweight and high-performance  
+- 🎨 Minimal & professional UI  
+- 🧑‍💻 Easy to customize for real projects  
 
+---
 
-🧩 Easy to maintain and extend
+# 🧱 Included Sections
 
+- 🏠 Hero Section  
+- 🛠 Services  
+- 👨‍💻 About  
+- 💬 Testimonials  
+- 📂 Projects / Portfolio  
+- 📩 Contact  
 
-🎨 Visually modern and professional
+---
 
+# 🛠 Technologies Used
 
-📱 Fully responsive across all screen sizes
+| HTML | CSS | JavaScript |
+|------|-----|------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> |
 
+---
 
-The layout emphasizes clean content presentation and strong visual identity, making it ideal for:
+# 📱 Responsive Design
 
+Optimized for:
 
-Freelancers
+- 📱 Mobile Devices  
+- 💻 Laptops  
+- 🖥 Desktop Screens  
+- 📟 Tablets  
 
+---
 
-Creative professionals
+# 🎯 Project Goal
 
+Create a clean and modern landing page template focused on:
 
-Small businesses
+- User experience  
+- Performance  
+- Simplicity  
+- Professional presentation  
 
+---
 
-Portfolio websites
+# 💡 Perfect For
 
+- Portfolio websites  
+- Freelancers  
+- Agencies  
+- Small businesses  
+- Modern landing pages  
 
-Service landing pages
+---
 
+# 📸 Preview
 
+![](image/home.png)
 
-✨ Key Features
-<div align="left">
-✔️ Modern dark mode interface
-✔️ Optional light mode toggle
-✔️ Fully responsive design
-✔️ Clean and maintainable codebase
-✔️ Lightweight front-end architecture
-✔️ Minimal and elegant UI
-✔️ Easy customization for real projects
-</div>
+---
 
-🧱 Included Sections
-SectionDescription🏠 HeroMain introduction area🛠 ServicesShowcase offered services👨‍💻 AboutPersonal or company information💬 TestimonialsClient/user feedback📂 Projects / PortfolioFeatured work showcase📩 ContactContact form and communication
+# ⭐ Support
 
-🛠 Technologies Used
-<div align="center">
-FrontendStylingFunctionality🌐 HTML🎨 CSS⚡ JavaScript
-</div>
-
-📱 Responsive Design
-The website is optimized for:
-
-
-📱 Mobile Devices
-
-
-💻 Laptops
-
-
-🖥 Desktop Screens
-
-
-📟 Tablets
-
-
-
-🚀 Performance Focused
-The project follows a lightweight structure without heavy frameworks, helping achieve:
-
-
-Faster loading times
-
-
-Better user experience
-
-
-Easier scalability
-
-
-Cleaner development workflow
-
-
-
-📌 Use Cases
-This template is perfect for:
-
-
-Personal portfolios
-
-
-Agency landing pages
-
-
-Business presentations
-
-
-Freelance websites
-
-
-Creative showcases
-
-
-
-<div align="center">
-⭐ If you like this project, consider giving it a star!
-</div>
+If you like this project, consider giving it a ⭐ on GitHub.
