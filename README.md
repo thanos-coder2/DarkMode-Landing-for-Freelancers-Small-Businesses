@@ -27,7 +27,7 @@ The project is lightweight, fast, and easy to customize, making it ideal for rea
 
 # 🧱 Included Sections
 
-- 🏠 Hero Section/home  
+- 🏠 Hero Section / home  
 - 🛠 Services  
 - 👨‍💻 About  
 - 💬 Testimonials  
