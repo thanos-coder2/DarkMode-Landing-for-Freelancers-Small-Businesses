@@ -71,7 +71,6 @@ Create a clean and modern landing page template focused on:
 - Portfolio websites  
 - Freelancers  
 - Small businesses  
-- Modern landing page
 
 ---
 
